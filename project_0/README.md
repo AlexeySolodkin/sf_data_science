@@ -1,39 +1,61 @@
 # Проект 0. Угадай Число
 
 ## Оглавление
-[1. Описание проекта](https://github.com/AlexeySolodkin/sf_data_science/tree/main/project_0/README.md#Описание-проекта)
-
-[2. Какой кейс решаем](https://github.com/AlexeySolodkin/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаем)
-
-[3. Краткая информация о данных](https://github.com/AlexeySolodkin/sf_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных)
-
-[4. Этапы работы над проектом](https://github.com/AlexeySolodkin/sf_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)
-
+[1. Описание проекта](https://github.com/AlexeySolodkin/sf_data_science/tree/main/project_0/README.md#Описание-проекта)    
+[2. Какой кейс решаем](https://github.com/AlexeySolodkin/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаем)         
+[3. Краткая информация о данных](https://github.com/AlexeySolodkin/sf_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных)             
+[4. Этапы работы над проектом](https://github.com/AlexeySolodkin/sf_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)               
 [5. Резыльтаты](https://github.com/AlexeySolodkin/sf_data_science/tree/main/project_0/README.md#Результаты)
-
 [6. Выводы](https://github.com/AlexeySolodkin/sf_data_science/tree/main/project_0/README.md#Выводы)
 
 ### Описание проекта
-Угадать загаданное компьютером число за минимальное число попыток.
+Угадать загаданное компьютером число за минимальное число попыток (не более 20).
 
-[к оглавлению](https://github.com/AlexeySolodkin/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/AlexeySolodkin/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 
 ### Какой кейс решаем
 Нужно написать программу, которая угадывает число за минимальное число попыток.
 
 **Условия соревнования:**
-- Компьютер загадывает целое число от 0 до 100, а нам его нужно угадать. Под "ушадать", подразумевается "написать программу, которая угадывает число".
+- Компьютер загадывает целое число от 1 до 100, а нам его нужно угадать. Под "угадать", подразумевается "написать программу, которая угадывает число".
 - Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам.
 
 **Метрика качества**
-Результат оценивается по среднему количеству попыток при 1000 повторений.
+Результат оценивается по среднему количеству попыток при 1000 повторений. Необходимо добиться минимального количества попыток.
 
 **Что практикуем**
-Учимся писать хороший код на python
+- Учимся писать хороший код на python.
+- Учимся работать с IDE.
+- Учимся работать с GitHub.
 
 
 ### Краткая информация о данных
-*******
+Загаданное число генерируется компьютером.
 
-[к оглавлению](https://github.com/AlexeySolodkin/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/AlexeySolodkin/sf_data_science/tree/main/project_0/README.md#Оглавление)
+
+### Этапы работы над проектом  
+1. На рабочий компьютер установлены: Ubuntu, Anaconda и Vscode.
+2. Установлены необходимые расширения, и настроена среда разработки.
+3. Воспроизведна программа игры для случая, когда число угадывается пользователем.
+4. Воспроизведна программа игры для случая, когда число угадывается комьютером случайном образом (среднее количество попыток: 101).
+5. Модифицирован алгоритм "угадывания" компьютером загадонного числа, для минимизации количества попыток.
+6. Подготовлена документация.
+7. Проект выложен на GitHub.
+
+:arrow_up:[к оглавлению](https://github.com/AlexeySolodkin/sf_data_science/tree/main/project_0/README.md#Оглавление)
+
+
+### Результаты:  
+* Среднее количество попыток, за которое компьютер "угадывает" число, составляет 8 попыток. 
+* Подготовлена документация по проекту.
+* Проект выложен на GitHub.
+
+:arrow_up:[к оглавлению](https://github.com/AlexeySolodkin/sf_data_science/tree/main/project_0/README.md#Оглавление)
+
+
+### Выводы:  
+Требуемая точность алгоритма "угадывания" числа компьютером  достигнута.
+
+:arrow_up:[к оглавлению](https://github.com/AlexeySolodkin/sf_data_science/tree/main/project_0/README.md#Оглавление)
