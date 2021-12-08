@@ -1,4 +1,4 @@
-# Проект 0. Угадай Число
+# Проект 1. Обработка данных.
 
 ## Оглавление
 [1. Описание проекта](https://github.com/AlexeySolodkin/sf_data_science/tree/main/project_1/README.md#Описание-проекта)    
