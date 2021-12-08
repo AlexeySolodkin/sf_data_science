@@ -22,11 +22,11 @@
 
 
 **Что практикуем**
-- Отрабатываем полученные в ходе обучения навыки по подготовке данных для последующего построения модели. 
+Отрабатываем полученные в ходе обучения навыки по подготовке данных для последующего построения модели. 
 
 
 ### Краткая информация о данных
-Использую база резюме, выгруженная с сайта поиска вакансий hh.ru (https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view).
+Используюется база резюме, выгруженная с сайта поиска вакансий hh.ru (https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view).
 
 :arrow_up:[к оглавлению](https://github.com/AlexeySolodkin/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
