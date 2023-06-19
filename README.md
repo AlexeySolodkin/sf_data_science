@@ -13,4 +13,4 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 
 * [Практические задания](https://github.com/AlexeySolodkin/sf_data_science/tree/main/practice).
 
-## Ссылка на резюме
+## [Ссылка на резюме](https://tomsk.hh.ru/applicant/resumes/view?resume=601d1c48ff077cd8880039ed1f464e4d4d3843)
